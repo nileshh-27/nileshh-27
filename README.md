@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on M.E.N<br>🌱 I’m currently learning Apache Spark<br>💬 Ask me about Anything<br>⚡ Fun fact I hate Narssistic/feministic Women!!
+🔭 I’m currently working on Redesigning & Organising Femwell <br>🌱 I’m currently learning "Low Level System Design".<br>
 
 
 ## 🌐 Socials:
