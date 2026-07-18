@@ -1,7 +1,7 @@
 <h1 align="center">Untitled Hello</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Gotham&size=22&duration=10000&center=true&multiline=true&repeat=false&lines=Nilesh+Reddy+K;Data+Engineering+Enthusiast;AI+Dev" />
+  <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Gotham&size=22&duration=10000&center=true&multiline=true&repeat=false&lines=Nilesh+Reddy+K;" />
 </p>
 
 <p align="center">
