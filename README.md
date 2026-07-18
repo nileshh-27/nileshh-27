@@ -1,7 +1,7 @@
 <h1 align="center">Untitled Hello</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Nilesh+Reddy+K;Data+Engineering+Enthusiast;AI+Dev" />
+  <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Gotham&size=22&duration=10000&center=true&multiline=true&repeat=false&lines=Nilesh+Reddy+K;Data+Engineering+Enthusiast;AI+Dev" />
 </p>
 
 <p align="center">
@@ -42,17 +42,13 @@ I'm Nilesh, a Btech Final Year student Majoring in CS
 ## Technologies that I'm comfortable with:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,react,js,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,react,js,mongodb,git,github,antigravity,vscode" />
 </p>
 
 ---
 
 ##  GitHub Analytics
 
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=nileshh-27&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshh-27&layout=compact&theme=tokyonight" height="150"/> 
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nileshh-27&theme=tokyonight" />
