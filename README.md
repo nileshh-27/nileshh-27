@@ -1,7 +1,7 @@
 <h1 align="center">Untitled Hello</h1>
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Gotham&size=22&duration=10000&pause=1000&center=true&multiline=true&repeat=false&width=435&lines=Nilesh+Reddy+K)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.herokuapp.com?color=522AF7FF&center=true&vCenter=true&width=500&lines=Nilesh+Reddy+K;Data+Engineering;AI+Engineering;" />
 </p>
 
 <p align="center">
